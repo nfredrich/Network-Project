@@ -1,0 +1,10 @@
+www
+mail
+localhost
+webmail
+smtp
+pop
+ns1
+ipv4
+vpn
+ns3

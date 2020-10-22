@@ -1,0 +1,25 @@
+cryptofunctions.py
+#https://pycryptodome.readthedocs.io/en/latest/src/util/util.html#Crypto.Util.Counter.new
+#https://hub.packtpub.com/protect-tcp-tunnel-implementing-aes-encryption-with-python/
+# https://stackoverflow.com/questions/34653875/python-how-to-send-data-over-tcp
+
+
+ipinfo.io API
+https://github.com/ipinfo/python
+
+mapAvailableNetworks.py
+#https://www.thepythoncode.com/article/building-network-scanner-using-scapy
+
+tcpdump
+#https: // opensource.com / article / 18 / 10 / introduction - tcpdump
+
+printpcap retgeo function
+# https://stackoverflow.com/questions/24678308/how-to-find-location-with-ip-address-in-python
+
+find subdomain
+#https://www.thepythoncode.com/article/make-subdomain-scanner-python
+                      #https://github.com/x4nth055/pythoncode-tutorials/blob/master/ethical-hacking/subdomain-scanner/fast_subdomain_scanner.py
+
+get domain info
+  # https://www.thepythoncode.com/article/extracting-domain-name-information-in-python
+                        # http://mrbool.com/creating-a-reconnaissance-scanner-with-python/33737
